@@ -1,2 +1,2 @@
 # Grove_PH_sensor
-Arduino Library for Grove PH sensor
+Arduino Library for Seeed Studio Grove PH sensor
