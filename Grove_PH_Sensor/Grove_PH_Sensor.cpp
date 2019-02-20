@@ -1,5 +1,5 @@
 /*
-  Grove_PH_sensor.h - Arduino library.
+  Grove_PH_sensor.cpp - Arduino library.
   Created by Dmitry Maslov, February 19, 2019.
   Released into the public domain.
 */
