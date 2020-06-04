@@ -15,6 +15,7 @@ Sensor::Sensor(int pin)
 
 float Sensor::take_reading()
 {
+    sensorSum = 0 ;
     for(m=0;m<51;m++)
     {
         sensorValue=analogRead(A0);//Connect the PH Sensor to A0 port
